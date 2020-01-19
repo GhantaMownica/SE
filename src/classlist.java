@@ -13,7 +13,6 @@ public class classlist {
 		classgrades.printClassList();
 		classgrades.printClassList2();
 	}
-	
 	Map<String,String> classList = new HashMap<String,String>();
 	public classlist() {
 		classList.put("Mownica", "A");
