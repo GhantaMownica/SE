@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 public class classlist {
-	
+
 	public static void main(String[] args) {
 		classlist classgrades = new classlist();
 		classgrades.printClassList();
